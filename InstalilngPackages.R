@@ -1,3 +1,7 @@
+#' --- 
+#' output: github_document
+#' ---
+
 library("dplyr")
 InstalledPackages <- tibble(installed.packages())
 
